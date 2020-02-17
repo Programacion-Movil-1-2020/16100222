@@ -33,7 +33,7 @@ fun main()
 {
     while(logic)
     {
-        println("Dinamic Creates Computers")
+        println("PC Maker")
         MostrarMenu()
         var respuesta: String? = readLine()
         BorrarConsola(false)

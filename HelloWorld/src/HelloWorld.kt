@@ -10,7 +10,6 @@ fun max(a:Int,b:Int) = if(a>b) a else b
 fun main (args: Array<String>)
 {
  //   println(max(4,6))
-    println("Chinga a tu madre pinche Java")
     suma(Random(5).nextInt(),Random(10).nextInt())
 }*/
 const val N = "NAME"
@@ -49,15 +48,15 @@ fun main (args: Array<String>) {
 
     val numero = 20
     if (numero.equals(5)) {
-        println("Siwe")
+        println("Si")
     } else {
-        println("nowe")
+        println("no")
     }
 
     when (2) {
         in 1..5 -> println("Si esta entre 1 y 5")
         in 1..3 -> println("Si esta entre 1 y 3")
-        else -> println("wtf")
+        else -> println("what")
     }
     println(describe(null))
     var uno = 1/*
