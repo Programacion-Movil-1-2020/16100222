@@ -1,4 +1,4 @@
-package model.Ejercicio 1`
+package model
 
 class Cuenta(TITULAR: String)
 {
